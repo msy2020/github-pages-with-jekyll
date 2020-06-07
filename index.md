@@ -1,2 +1,1 @@
-# All About Michelle Sy 
-Welcome!
+# Welcome! 
