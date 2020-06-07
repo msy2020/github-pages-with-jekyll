@@ -1,3 +1,2 @@
-# Welcome to my website 
-
-My name is Michelle Sy.
+# All About Michelle Sy 
+Welcome!
